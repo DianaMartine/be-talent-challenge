@@ -1,64 +1,64 @@
-# BeTalent Project
+# Projeto BeTalent
 
-## Purpose
+## Propósito
 
-The BeTalent project is designed to manage and display employee information in a responsive and user-friendly manner. It includes features such as searching for employees, displaying employee details in a table format, and adapting the layout for mobile and desktop views.
+O projeto BeTalent foi desenvolvido para gerenciar e exibir informações de funcionários de forma responsiva e amigável ao usuário. Ele inclui funcionalidades como busca de funcionários, exibição de detalhes dos funcionários em formato de tabela e adaptação do layout para visualização em dispositivos móveis e desktops.
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - React
 - CSS Modules
 - JavaScript (ES6+)
 - HTML5
-- Responsive Design
+- Design Responsivo
 
-## Project Structure
+## Estrutura do Projeto
 
-The project is structured into various components to ensure modularity and reusability. Key components include:
+O projeto é estruturado em diversos componentes para garantir modularidade e reutilização. Os principais componentes incluem:
 
-- `Header`: Displays the logo and navigation.
-- `SearchBox`: Allows users to search for employees.
-- `Table`: Displays employee data in a tabular format.
-- `Accordion`: Used for displaying employee details in a collapsible format on mobile devices.
+- `Header`: Exibe o logotipo e a navegação.
+- `SearchBox`: Permite que os usuários busquem funcionários.
+- `Table`: Exibe os dados dos funcionários em formato de tabela.
+- `Accordion`: Utilizado para exibir detalhes dos funcionários em formato recolhível em dispositivos móveis.
 
-## Installation
+## Instalação
 
-To install and run the project locally:
+Para instalar e executar o projeto localmente:
 
-1. Clone the repository:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/dianamartine/be-talent.git
    ```
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
    ```bash
    cd be-talent
    ```
-3. Install dependencies:
+3. Instale as dependências:
    ```bash
    npm install
    ```
-4. Start the development server:
+4. Inicie o servidor de desenvolvimento:
    ```bash
    npm run dev
    ```
 
-## Available Scripts
+## Scripts Disponíveis
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm run dev`
 
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Executa o aplicativo em modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
-## Changelog
+## Registro de Alterações
 
 ### v1.0.0
 
-- Initial release
-- Added Header component
-- Added SearchBox component
-- Added Table component with responsive design
-- Added Accordion component for mobile view
-- Implemented employee search functionality
-- Adapted table headers and content based on viewport size
+- Versão inicial
+- Adicionado componente Header
+- Adicionado componente SearchBox
+- Adicionado componente Table com design responsivo
+- Adicionado componente Accordion para visualização em dispositivos móveis
+- Implementada funcionalidade de busca de funcionários
+- Adaptados cabeçalhos e conteúdo da tabela com base no tamanho da tela
