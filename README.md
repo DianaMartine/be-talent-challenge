@@ -62,3 +62,5 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navega
 - Adicionado componente Accordion para visualização em dispositivos móveis
 - Implementada funcionalidade de busca de funcionários
 - Adaptados cabeçalhos e conteúdo da tabela com base no tamanho da tela
+
+made with <3 by Diana Martine
